@@ -6,6 +6,7 @@
 # @Software: PyCharm
 # @Author: Xuchao
 
+# 能实现所有基于bool的盲注
 import binascii
 import requests
 import time
