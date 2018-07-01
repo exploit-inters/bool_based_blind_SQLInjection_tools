@@ -7,6 +7,7 @@
 # @Author: Xuchao
 
 import requests
+import binascii
 
 hex = lambda s: binascii.hexlify(s)
 char = '0123456789ABCDEF'
